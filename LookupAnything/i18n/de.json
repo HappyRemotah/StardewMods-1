@@ -62,8 +62,7 @@
     "friendship-status.kicked-out": "Rausgeschmissen",
 
     // custom content (shows which mod added an item, NPC, etc)
-    // TODO
-    "added-by-mod": "Added by mod",
+    "added-by-mod": "Durch folgenden Mod hinzugefügt",
     "added-by-mod.summary": "{{modName}}",
 
 
@@ -110,7 +109,7 @@
     "data.item.box.description": "Zerschlage sie um verschiedenes Gut zu erhalten.",
 
     // location names
-    "location.beach.east-pier": "Strand (östliches Pier)",
+    "location.beach.east-pier": "Strand (östlicher Pier)",
     "location.bugLand": "Mutantenkäferhöhle",
     "location.desert.topPond": "Wüste (nördlicher Teich)",
     "location.farmCave": "Bauernhof-Höhle",
@@ -118,10 +117,10 @@
     "location.forest.island-tip": "Waldfluss (Südspitze der großen Insel)",
     "location.forest.lake": "Waldteich",
     "location.forest.river": "Waldfluss",
-    "location.HarveyRoom": "Harvey's Room", // TODO
-    "location.LeoTreeHouse": "Treehouse", // TODO
-    "location.SandyHouse": "Oasis", // TODO
-    "location.SebastianRoom": "Sebastian's Room", // TODO
+    "location.HarveyRoom": "Harveys Raum", 
+    "location.LeoTreeHouse": "Baumhaus", 
+    "location.SandyHouse": "Oase", 
+    "location.SebastianRoom": "Sebastians Raum",
     "location.submarine": "Nachtmarkt Tiefsee-U-Boot",
     "location.town.northmost-bridge": "Stadt (Nord-östliche Brücke)",
     "location.undergroundMine": "Mine",
@@ -498,7 +497,7 @@
     "npc.neutral-gifts": "Neutrale Geschenke",
     "npc.dislikes-gifts": "Nicht gemochte Geschenke",
     "npc.hates-gifts": "Gehasste Geschenke",
-    "npc.schedule": "Today's schedule", // TODO
+    "npc.schedule": "Heutiger Terminplan",
 
     // values
     "npc.can-romance.married": "Du bist verheiratet! <", // < turns into a heart
@@ -508,9 +507,9 @@
     "npc.friendship.need-points": "nächstes in {{count}} Punkten",
     "npc.undiscovered-gift-taste": "{{count}} unaufgedeckte Gegenstände",
     "npc.unowned-gift-taste": "{{count}} nicht bessesene Gegenstände",
-    "npc.schedule.current-position": "Currently at {{locationName}} ({{x}}, {{y}}).", // TODO
-    "npc.schedule.no-entries": "No schedule loaded.", // TODO
-    "npc.schedule.entry": "{{time}}: walk to {{locationName}} ({{x}}, {{y}}).", // TODO
+    "npc.schedule.current-position": "Du bist momentan hier: {{locationName}} ({{x}}, {{y}}).",
+    "npc.schedule.no-entries": "Kein Zeitplan geladen.",
+    "npc.schedule.entry": "{{time}}: gehe zu {{locationName}} ({{x}}, {{y}}).",
 
 
     /*********
